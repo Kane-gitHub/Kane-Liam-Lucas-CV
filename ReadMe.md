@@ -1,0 +1,2 @@
+This is my Portfolio.
+The GITHUB REPO WILL BE PUSHED USING TERMINAL
